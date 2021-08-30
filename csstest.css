@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+#logotype {
+	visibility: hidden;
+}
+
+.rubrik {
+	background-position: center, top;
+	background-image: url(Smal-logga-page001.png);
+	background-repeat: no-repeat;
+}
